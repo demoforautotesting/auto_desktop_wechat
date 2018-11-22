@@ -1,0 +1,2 @@
+# auto_desktop_wechat
+使用CukeTest自动化opuppeteer和桌面端微信
